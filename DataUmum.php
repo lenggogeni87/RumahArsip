@@ -24,7 +24,7 @@ class DataUmum extends BaseController
         }
 
         $data = $this->dataUmumModel->getData();
-        return view('layout/maine', ['content' => view('data_umum/index', ['data' => $data])]);
+        return view('layout/main', ['content' => view('data_umum/index', ['data' => $data])]);
     }
     
     public function add()
