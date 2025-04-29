@@ -1,0 +1,1308 @@
+CRITICAL - 2025-01-13 02:43:11 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 APPPATH\Controllers\DataUmum.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 04:04:33 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 APPPATH\Controllers\DataUmum.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 05:27:51 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 APPPATH\Controllers\DataUmum.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:10:01 --> ParseError: syntax error, unexpected variable "$data"
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 10.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:10:02 --> ParseError: syntax error, unexpected variable "$data"
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 10.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:10:03 --> ParseError: syntax error, unexpected variable "$data"
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 10.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:10:15 --> ParseError: syntax error, unexpected variable "$data"
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 10.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:11:25 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 10.
+ 1 APPPATH\Controllers\DataUmum.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:11:25 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 10.
+ 1 APPPATH\Controllers\DataUmum.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:11:26 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 10.
+ 1 APPPATH\Controllers\DataUmum.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:11:26 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 10.
+ 1 APPPATH\Controllers\DataUmum.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:11:26 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 10.
+ 1 APPPATH\Controllers\DataUmum.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:12:12 --> Error: Call to undefined function App\Controllers\show_error()
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:12:12 --> Error: Call to undefined function App\Controllers\show_error()
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:12:13 --> Error: Call to undefined function App\Controllers\show_error()
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:12:13 --> Error: Call to undefined function App\Controllers\show_error()
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:12:20 --> Error: Call to undefined function App\Controllers\show_error()
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:12:21 --> Error: Call to undefined function App\Controllers\show_error()
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:12:21 --> Error: Call to undefined function App\Controllers\show_error()
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:15:46 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:15:47 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:23:45 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(61): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:23:46 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(61): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:23:46 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(61): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:23:47 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(61): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:24:03 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:24:03 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:24:04 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:24:04 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:24:58 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:26:28 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:26:29 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:26:29 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:26:30 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:26:45 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:27:56 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:31:09 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:32:06 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:32:34 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:36:49 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:36:50 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:38:14 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:38:15 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:38:16 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:39:25 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:39:26 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:42:03 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:43:59 --> ErrorException: Cannot declare class App\Controllers\DataUmum because the name is already in use
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-13 06:44:01 --> ErrorException: Cannot declare class App\Controllers\DataUmum because the name is already in use
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-13 06:44:02 --> ErrorException: Cannot declare class App\Controllers\DataUmum because the name is already in use
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-13 06:44:02 --> ErrorException: Cannot declare class App\Controllers\DataUmum because the name is already in use
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-13 06:45:13 --> ErrorException: Cannot declare class App\Controllers\DataUmum because the name is already in use
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-13 06:45:14 --> ErrorException: Cannot declare class App\Controllers\DataUmum because the name is already in use
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-13 06:45:35 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 APPPATH\Controllers\DataUmum.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:46:32 --> ErrorException: Undefined property: App\Controllers\DataUmum::$dataUmumModel
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 APPPATH\Controllers\DataUmum.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$dataUmumModel', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:46:33 --> ErrorException: Undefined property: App\Controllers\DataUmum::$dataUmumModel
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 APPPATH\Controllers\DataUmum.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$dataUmumModel', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:46:33 --> ErrorException: Undefined property: App\Controllers\DataUmum::$dataUmumModel
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 APPPATH\Controllers\DataUmum.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$dataUmumModel', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:47:07 --> ErrorException: Undefined property: App\Controllers\DataUmum::$dataUmumModel
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 APPPATH\Controllers\DataUmum.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$dataUmumModel', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:47:08 --> ErrorException: Undefined property: App\Controllers\DataUmum::$dataUmumModel
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 APPPATH\Controllers\DataUmum.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$dataUmumModel', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:47:08 --> ErrorException: Undefined property: App\Controllers\DataUmum::$dataUmumModel
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 16.
+ 1 APPPATH\Controllers\DataUmum.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$dataUmumModel', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:48:02 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:48:03 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:48:04 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:49:40 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:52:26 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:52:26 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:52:34 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:52:35 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:52:35 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:52:36 --> Error: Call to a member function getData() on null
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:57:40 --> ParseError: syntax error, unexpected identifier "var_dump", expecting "function" or "const"
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Models\\DataUmumModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\DataUmumModel')
+ 3 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\DataUmumModel')
+ 4 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:57:53 --> Error: Class "AppModels\Model" not found
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Models\\DataUmumModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\DataUmumModel')
+ 4 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\DataUmumModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:57:54 --> Error: Class "AppModels\Model" not found
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Models\\DataUmumModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\DataUmumModel')
+ 4 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\DataUmumModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 06:59:42 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-13 07:04:27 --> Error: Class "AppModels\Model" not found
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Models\\DataUmumModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\DataUmumModel')
+ 4 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\DataUmumModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:04:29 --> Error: Class "AppModels\Model" not found
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Models\\DataUmumModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\DataUmumModel')
+ 4 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\DataUmumModel')
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:05:29 --> CodeIgniter\Exceptions\ConfigException: Invalid DBDriver name: "MySQL"
+[Method: GET, Route: table-data-umum]
+in SYSTEMPATH\Database\Database.php on line 172.
+ 1 SYSTEMPATH\Database\Database.php(59): CodeIgniter\Database\Database->checkDbExtension('MySQL')
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect('default')
+ 4 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:05:30 --> CodeIgniter\Exceptions\ConfigException: Invalid DBDriver name: "MySQL"
+[Method: GET, Route: table-data-umum]
+in SYSTEMPATH\Database\Database.php on line 172.
+ 1 SYSTEMPATH\Database\Database.php(59): CodeIgniter\Database\Database->checkDbExtension('MySQL')
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect('default')
+ 4 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:05:31 --> CodeIgniter\Exceptions\ConfigException: Invalid DBDriver name: "MySQL"
+[Method: GET, Route: table-data-umum]
+in SYSTEMPATH\Database\Database.php on line 172.
+ 1 SYSTEMPATH\Database\Database.php(59): CodeIgniter\Database\Database->checkDbExtension('MySQL')
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load([...], 'default')
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect('default')
+ 4 APPPATH\Controllers\DataUmum.php(14): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:24:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "table-data-umum/index.php"
+[Method: GET, Route: table-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('table-data-umum/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('table-data-umum/index', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(25): view('table-data-umum/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:24:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "table-data-umum/index.php"
+[Method: GET, Route: table-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('table-data-umum/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('table-data-umum/index', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(25): view('table-data-umum/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:24:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "table-data-umum/index.php"
+[Method: GET, Route: table-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('table-data-umum/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('table-data-umum/index', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(25): view('table-data-umum/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:24:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "table-data-umum/index.php"
+[Method: GET, Route: table-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('table-data-umum/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('table-data-umum/index', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(25): view('table-data-umum/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:25:13 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:25:28 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:25:47 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:27:11 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, array returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:27:12 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, array returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:46:12 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:46:17 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:46:18 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:46:19 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:46:20 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:51:48 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:30 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:31 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:31 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:32 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:35 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:36 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:39 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:44 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:45 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:46 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:46 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:47 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:47 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:52:48 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:53:05 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:53:07 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:53:07 --> TypeError: App\Controllers\DataUmum::index(): Return value must be of type string, none returned
+[Method: GET, Route: table-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 07:59:41 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: add-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 25.
+ 1 APPPATH\Controllers\DataUmum.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->add()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 08:07:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "faktor_risiko/indexd.php"
+[Method: GET, Route: table-faktor-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('faktor_risiko/indexd.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('faktor_risiko/indexd', [], true)
+ 3 APPPATH\Controllers\FaktorRisiko.php(20): view('faktor_risiko/indexd', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\FaktorRisiko->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FaktorRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 08:45:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/maisn.php"
+[Method: GET, Route: table-pemantauan-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/maisn.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/maisn', [], true)
+ 3 APPPATH\Controllers\PemantauanRisiko.php(20): view('layout/maisn', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PemantauanRisiko->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemantauanRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 08:52:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\ManajemenPengguna::$manajemenPenggunaModel is deprecated in APPPATH\Controllers\ManajemenPengguna.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\ManajemenPengguna->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 08:59:48 --> ErrorException: Undefined property: App\Controllers\FaktorRisiko::$model
+[Method: GET, Route: add-faktor-risiko]
+in APPPATH\Controllers\FaktorRisiko.php on line 25.
+ 1 APPPATH\Controllers\FaktorRisiko.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\FaktorRisiko::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\FaktorRisiko.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\FaktorRisiko->add()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FaktorRisiko))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 08:59:52 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: add-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 25.
+ 1 APPPATH\Controllers\DataUmum.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->add()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 09:00:31 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: add-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 25.
+ 1 APPPATH\Controllers\DataUmum.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->add()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:02:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:02:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:03:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 09:03:01 --> ErrorException: Undefined property: App\Controllers\DataUmum::$model
+[Method: GET, Route: edit-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 31.
+ 1 APPPATH\Controllers\DataUmum.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\DataUmum::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->edit()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:03:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 09:03:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "data_umum/edit.php"
+[Method: GET, Route: edit-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('data_umum/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data_umum/edit', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(32): view('data_umum/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->edit()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:03:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 09:03:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "data_umum/edit.php"
+[Method: GET, Route: edit-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('data_umum/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data_umum/edit', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(32): view('data_umum/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->edit()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:05:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:05:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 09:05:10 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "data_umum/add.php"
+[Method: GET, Route: add-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('data_umum/add.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data_umum/add', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(26): view('data_umum/add', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->add()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:05:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:05:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 09:05:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "data_umum/edit.php"
+[Method: GET, Route: edit-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('data_umum/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data_umum/edit', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(32): view('data_umum/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->edit()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-13 09:06:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 09:59:55 --> ErrorException: Undefined property: App\Controllers\FaktorRisiko::$model
+[Method: GET, Route: add-faktor-risiko]
+in APPPATH\Controllers\FaktorRisiko.php on line 25.
+ 1 APPPATH\Controllers\FaktorRisiko.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\FaktorRisiko::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\FaktorRisiko.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\FaktorRisiko->add()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FaktorRisiko))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 10:00:47 --> ErrorException: Undefined property: App\Controllers\FaktorRisiko::$model
+[Method: GET, Route: add-faktor-risiko]
+in APPPATH\Controllers\FaktorRisiko.php on line 25.
+ 1 APPPATH\Controllers\FaktorRisiko.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\FaktorRisiko::$model', 'C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\FaktorRisiko.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\FaktorRisiko->add()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FaktorRisiko))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 10:05:28 --> Error: Class "App\Models\profilRisikoModel" not found
+[Method: GET, Route: table-profil-risiko]
+in APPPATH\Controllers\ProfilRisiko.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\ProfilRisiko->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 10:05:30 --> Error: Class "App\Models\profilRisikoModel" not found
+[Method: GET, Route: table-profil-risiko]
+in APPPATH\Controllers\ProfilRisiko.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\ProfilRisiko->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 10:09:03 --> ErrorException: Cannot redeclare App\Controllers\ProfilRisiko::edit()
+[Method: GET, Route: table-profil-risiko]
+in APPPATH\Controllers\ProfilRisiko.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-13 10:20:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "penilaian_risiko/add.php"
+[Method: GET, Route: add-penilaian-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('penilaian_risiko/add.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penilaian_risiko/add', [], true)
+ 3 APPPATH\Controllers\PenilaianRisiko.php(26): view('penilaian_risiko/add', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PenilaianRisiko->add()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PenilaianRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-13 10:21:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "penilaian_risiko/edit.php"
+[Method: GET, Route: edit-penilaian-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('penilaian_risiko/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penilaian_risiko/edit', [], true)
+ 3 APPPATH\Controllers\PenilaianRisiko.php(32): view('penilaian_risiko/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PenilaianRisiko->edit()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PenilaianRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

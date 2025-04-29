@@ -1,0 +1,978 @@
+WARNING - 2025-01-17 02:22:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 04:08:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 04:08:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 04:08:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-01-17 04:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-01-17 04:10:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 04:10:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 04:10:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-01-17 04:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-01-17 07:21:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:21:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-01-17 07:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-01-17 07:22:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:22:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:22:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-01-17 07:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-01-17 07:23:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:23:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-01-17 07:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-01-17 07:23:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:26:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:30:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:33:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:33:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-01-17 07:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-01-17 07:33:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:34:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:34:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:35:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:35:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:35:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:35:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:36:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:36:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 07:44:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:06:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:06:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:06:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:07:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-01-17 08:07:04 --> mysqli_sql_exception: Unknown column 'sk_tim' in 'field list' in C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `data_um...', 0)
+#1 C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `data_um...')
+#2 C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `data_um...')
+#3 C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `data_um...', Array, false)
+#4 C:\xampp\htdocs\lenggo\manrisk_dev\app\Models\DataUmumModel.php(48): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\xampp\htdocs\lenggo\manrisk_dev\app\Controllers\DataUmum.php(93): App\Models\DataUmumModel->update('1', Array)
+#6 C:\xampp\htdocs\lenggo\manrisk_dev\system\CodeIgniter.php(933): App\Controllers\DataUmum->update('1')
+#7 C:\xampp\htdocs\lenggo\manrisk_dev\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+#8 C:\xampp\htdocs\lenggo\manrisk_dev\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\lenggo\manrisk_dev\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\lenggo\manrisk_dev\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\lenggo\manrisk_dev\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-01-17 08:07:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'sk_tim' in 'field list'
+[Method: POST, Route: update-data-umum/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `data_umum` SET `nama_unit_utama` = :nama_unit_utama:, `nama_satuan_kerja` = :nama_satuan_kerja:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `anggota` = :anggota:, `sk_tim` = :sk_tim:
+WHERE `ID_Data_Umum` = :ID_Data_Umum:', [...], false)
+ 2 APPPATH\Models\DataUmumModel.php(48): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 3 APPPATH\Controllers\DataUmum.php(93): App\Models\DataUmumModel->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->update('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:07:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'sk_tim' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_20.pdf\'
+WHERE `ID_Data_Umum` = \'1\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_20.pdf\'
+WHERE `ID_Data_Umum` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `data_umum` SET `nama_unit_utama` = :nama_unit_utama:, `nama_satuan_kerja` = :nama_satuan_kerja:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `anggota` = :anggota:, `sk_tim` = :sk_tim:
+WHERE `ID_Data_Umum` = :ID_Data_Umum:', [...], false)
+ 4 APPPATH\Models\DataUmumModel.php(48): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 5 APPPATH\Controllers\DataUmum.php(93): App\Models\DataUmumModel->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->update('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:07:04 --> [Caused by] mysqli_sql_exception: Unknown column 'sk_tim' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_20.pdf\'
+WHERE `ID_Data_Umum` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_20.pdf\'
+WHERE `ID_Data_Umum` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_20.pdf\'
+WHERE `ID_Data_Umum` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `data_umum` SET `nama_unit_utama` = :nama_unit_utama:, `nama_satuan_kerja` = :nama_satuan_kerja:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `anggota` = :anggota:, `sk_tim` = :sk_tim:
+WHERE `ID_Data_Umum` = :ID_Data_Umum:', [...], false)
+ 5 APPPATH\Models\DataUmumModel.php(48): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 6 APPPATH\Controllers\DataUmum.php(93): App\Models\DataUmumModel->update('1', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->update('1')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:21:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-01-17 08:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-01-17 08:21:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:31:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:31:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:32:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:32:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:32:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:32:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:32:51 --> ParseError: Unclosed '{' on line 30 does not match ')'
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 31.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:32:55 --> ParseError: Unclosed '{' on line 30 does not match ')'
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 31.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:33:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:37:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-01-17 08:37:56 --> mysqli_sql_exception: Unknown column 'sk_tim' in 'field list' in C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `data_um...', 0)
+#1 C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `data_um...')
+#2 C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `data_um...')
+#3 C:\xampp\htdocs\lenggo\manrisk_dev\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `data_um...', Array, false)
+#4 C:\xampp\htdocs\lenggo\manrisk_dev\app\Models\DataUmumModel.php(48): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\xampp\htdocs\lenggo\manrisk_dev\app\Controllers\DataUmum.php(96): App\Models\DataUmumModel->update('1', Array)
+#6 C:\xampp\htdocs\lenggo\manrisk_dev\system\CodeIgniter.php(933): App\Controllers\DataUmum->update('1')
+#7 C:\xampp\htdocs\lenggo\manrisk_dev\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+#8 C:\xampp\htdocs\lenggo\manrisk_dev\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\lenggo\manrisk_dev\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\lenggo\manrisk_dev\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\lenggo\manrisk_dev\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-01-17 08:37:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'sk_tim' in 'field list'
+[Method: POST, Route: update-data-umum/1]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `data_umum` SET `nama_unit_utama` = :nama_unit_utama:, `nama_satuan_kerja` = :nama_satuan_kerja:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `anggota` = :anggota:, `sk_tim` = :sk_tim:
+WHERE `ID_Data_Umum` = :ID_Data_Umum:', [...], false)
+ 2 APPPATH\Models\DataUmumModel.php(48): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 3 APPPATH\Controllers\DataUmum.php(96): App\Models\DataUmumModel->update('1', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->update('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:37:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'sk_tim' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_21.pdf\'
+WHERE `ID_Data_Umum` = \'1\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_21.pdf\'
+WHERE `ID_Data_Umum` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `data_umum` SET `nama_unit_utama` = :nama_unit_utama:, `nama_satuan_kerja` = :nama_satuan_kerja:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `anggota` = :anggota:, `sk_tim` = :sk_tim:
+WHERE `ID_Data_Umum` = :ID_Data_Umum:', [...], false)
+ 4 APPPATH\Models\DataUmumModel.php(48): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 5 APPPATH\Controllers\DataUmum.php(96): App\Models\DataUmumModel->update('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->update('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:37:56 --> [Caused by] mysqli_sql_exception: Unknown column 'sk_tim' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_21.pdf\'
+WHERE `ID_Data_Umum` = \'1\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_21.pdf\'
+WHERE `ID_Data_Umum` = \'1\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `data_umum` SET `nama_unit_utama` = \'-\', `nama_satuan_kerja` = \'-\', `ketua` = \'-\', `sekretaris` = \'-\', `anggota` = \'-\', `sk_tim` = \'surat_cuti_198703292015032003_20241230_20241231_20250102_signed2_21.pdf\'
+WHERE `ID_Data_Umum` = \'1\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `data_umum` SET `nama_unit_utama` = :nama_unit_utama:, `nama_satuan_kerja` = :nama_satuan_kerja:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `anggota` = :anggota:, `sk_tim` = :sk_tim:
+WHERE `ID_Data_Umum` = :ID_Data_Umum:', [...], false)
+ 5 APPPATH\Models\DataUmumModel.php(48): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 6 APPPATH\Controllers\DataUmum.php(96): App\Models\DataUmumModel->update('1', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->update('1')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:39:09 --> ParseError: syntax error, unexpected token "*"
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 59.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:39:32 --> ParseError: syntax error, unexpected token "*"
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 59.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:39:53 --> ParseError: syntax error, unexpected token "public"
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 63.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:43:26 --> ParseError: syntax error, unexpected token "public"
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 62.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:44:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:44:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:44:31 --> ParseError: syntax error, unexpected token "*"
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 52.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:44:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:44:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:44:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:45:59 --> ParseError: syntax error, unexpected variable "$this", expecting ")"
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 51.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:46:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:46:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:46:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:46:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:46:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:46:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:58:59 --> ParseError: syntax error, unexpected token "(", expecting variable
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 08:59:22 --> ParseError: syntax error, unexpected token "(", expecting variable
+[Method: POST, Route: store-data-umum]
+in APPPATH\Controllers\DataUmum.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\lenggo\\manrisk_dev\\app\\Controllers\\DataUmum.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\DataUmum')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\DataUmum')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\DataUmum', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 08:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:00:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:01:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:01:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:01:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:01:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:01:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:02:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:03:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:04:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:04:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:08:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:09:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:09:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:12:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:12:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:12:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:12:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:12:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:12:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:12:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 09:12:52 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+[Method: POST, Route: store-data-umum]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\DataUmum.php(61): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:12:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 09:12:53 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+[Method: POST, Route: store-data-umum]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\DataUmum.php(61): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:12:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 09:12:57 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+[Method: POST, Route: store-data-umum]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\DataUmum.php(61): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:13:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 09:13:07 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+[Method: POST, Route: store-data-umum]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\DataUmum.php(61): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:31:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 09:31:33 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+[Method: POST, Route: store-data-umum]
+in SYSTEMPATH\BaseModel.php on line 826.
+ 1 SYSTEMPATH\BaseModel.php(826): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\DataUmum.php(43): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:32:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-01-17 09:33:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\DataUmum::$dataUmumModel is deprecated in APPPATH\Controllers\DataUmum.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DataUmum->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-17 09:36:24 --> ErrorException: Declaration of App\Models\DataUmumModel::insert(array $data): bool must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: POST, Route: store-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:36:46 --> ErrorException: Declaration of App\Models\DataUmumModel::insert(array $data): bool must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: POST, Route: store-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:37:21 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: POST, Route: store-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:40:12 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: add-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:40:13 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:40:14 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: edit-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:40:24 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:40:49 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:40:50 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:41:11 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:41:29 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:41:29 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:41:30 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:41:30 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:02 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:02 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:16 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:17 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:18 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:18 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:19 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:19 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:19 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:19 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-01-17 09:42:19 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

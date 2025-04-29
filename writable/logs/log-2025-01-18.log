@@ -1,0 +1,4 @@
+CRITICAL - 2025-01-18 02:17:16 --> ErrorException: Declaration of App\Models\DataUmumModel::insert($data) must be compatible with CodeIgniter\Model::insert($row = null, bool $returnID = true)
+[Method: GET, Route: table-data-umum]
+in APPPATH\Models\DataUmumModel.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

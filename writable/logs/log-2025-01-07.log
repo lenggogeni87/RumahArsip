@@ -1,0 +1,120 @@
+CRITICAL - 2025-01-07 07:38:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "data_umum/index.php"
+[Method: GET, Route: table-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('data_umum/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data_umum/index', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(12): view('data_umum/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-07 07:39:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "data_umum/index.php"
+[Method: GET, Route: table-data-umum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('data_umum/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data_umum/index', [], true)
+ 3 APPPATH\Controllers\DataUmum.php(12): view('data_umum/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataUmum->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataUmum))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-07 08:06:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil_risiko/index.php"
+[Method: GET, Route: table-profil-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil_risiko/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('profil_risiko/index', [], true)
+ 3 APPPATH\Controllers\ProfilRisiko.php(12): view('profil_risiko/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProfilRisiko->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-07 08:12:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "penilaian_risiko/index.php"
+[Method: GET, Route: table-penilaian-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('penilaian_risiko/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penilaian_risiko/index', [], true)
+ 3 APPPATH\Controllers\PenilaianRisiko.php(12): view('penilaian_risiko/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PenilaianRisiko->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PenilaianRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-07 08:12:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil_risiko/index.php"
+[Method: GET, Route: table-profil-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil_risiko/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('profil_risiko/index', [], true)
+ 3 APPPATH\Controllers\ProfilRisiko.php(12): view('profil_risiko/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProfilRisiko->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-07 09:25:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "penilaian_risiko/index.php"
+[Method: GET, Route: table-penilaian-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('penilaian_risiko/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penilaian_risiko/index', [], true)
+ 3 APPPATH\Controllers\PenilaianRisiko.php(12): view('penilaian_risiko/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PenilaianRisiko->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PenilaianRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-07 09:26:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "penilaian_risiko/index.php"
+[Method: GET, Route: table-penilaian-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('penilaian_risiko/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('penilaian_risiko/index', [], true)
+ 3 APPPATH\Controllers\PenilaianRisiko.php(12): view('penilaian_risiko/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PenilaianRisiko->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PenilaianRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-07 10:03:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil_risiko/index.php"
+[Method: GET, Route: table-profil-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil_risiko/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('profil_risiko/index', [], true)
+ 3 APPPATH\Controllers\ProfilRisiko.php(12): view('profil_risiko/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProfilRisiko->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-07 10:05:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "profil_risiko/index.php"
+[Method: GET, Route: table-profil-risiko]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profil_risiko/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('profil_risiko/index', [], true)
+ 3 APPPATH\Controllers\ProfilRisiko.php(12): view('profil_risiko/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProfilRisiko->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilRisiko))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-07 10:09:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manajemen_pengguna/index.php"
+[Method: GET, Route: table-manajemen-pengguna]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manajemen_pengguna/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manajemen_pengguna/index', [], true)
+ 3 APPPATH\Controllers\ManajemenPengguna.php(12): view('manajemen_pengguna/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ManajemenPengguna->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ManajemenPengguna))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
