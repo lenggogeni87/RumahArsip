@@ -49,7 +49,7 @@
                 </div>
 
                 <h3 class="auth-title text-center">Log in.</h1>
-                    <p class="auth-subtitle mb-3">Log In dengan data yang kamu masukan saat mendaftarnyaa</p>
+                    <p class="auth-subtitle mb-3">Log In dengan data yang kamu masukan saat mendaftarnyaa (tes tortoise))</p>
             </div>
             <div class="row">
                 <form action="<?= base_url('/') ?>">
