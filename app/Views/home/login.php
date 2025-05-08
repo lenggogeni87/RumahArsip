@@ -48,7 +48,7 @@
                     <a href="index.html"><img src="assets/images/logo/manrisk.png" alt="Logo" style="width: 40%;"></a>
                 </div>
 
-                <h3 class="auth-title text-center">Log in. testing tommi</h1>
+                <h3 class="auth-title text-center">Log in. testing tommi lagi dan lagi coba terus</h1>
                     <p class="auth-subtitle mb-3">Log In dengan data yang kamu masukan saat mendaftarnyaa</p>
             </div>
             <div class="row">
